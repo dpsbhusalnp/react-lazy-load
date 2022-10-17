@@ -1,5 +1,5 @@
 {
-  "name": "react-lazyload",
+  "name": "react-tr-lazyload",
   "version": "3.2.0",
   "description": "Lazyload your components, images or anything where performance matters.",
   "main": "lib/index.js",
@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/jasonslyvia/react-lazyload/issues"
   },
-  "homepage": "https://github.com/jasonslyvia/react-lazyload",
+  "homepage": "https://github.com/dpsbhusalnp/react-lazyload",
   "devDependencies": {
     "babel-cli": "^6.24.0",
     "babel-core": "^6.24.0",
